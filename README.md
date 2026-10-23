@@ -1,4 +1,5 @@
-## Hi there 👋
+## funny team very cool wow
+Hi! were NekoCat! we do shit sometimes as we feel like it.
 
 <!--
 **NekoCatTeam/NekoCatTeam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
